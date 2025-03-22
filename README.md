@@ -10,4 +10,4 @@ Features:
 - Double-clicking a client's IP in the server UI allows interaction with that client.
 
 Disclaimer:
-Some server functions have been intentionally removed (e.g., accessing client files) to prevent misuse or malicious intent.
+Some server-side functions have been intentionally removed (e.g., accessing client files) to prevent misuse or malicious intent.
